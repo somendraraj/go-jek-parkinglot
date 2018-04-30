@@ -1,0 +1,8 @@
+com\gojek\cache\ParkingAvailablityTest.class
+com\gojek\service\ParkingLotServiceTest.class
+com\gojek\service\ParkingStatusServiceTest.class
+com\gojek\service\ParkingLotByColorServiceTest.class
+com\gojek\service\ParkACarServiceTest.class
+com\gojek\service\ParkingLotByRegistrationNoServiceTest.class
+com\gojek\service\LeaveParkingServiceTest.class
+com\gojek\service\RegistrationNoByColorServiceTest.class
